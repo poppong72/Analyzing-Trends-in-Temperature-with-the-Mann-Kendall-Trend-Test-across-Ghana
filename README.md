@@ -1,0 +1,1 @@
+# Analyzing-Trends-in-Temperature-with-the-Mann-Kendall-Trend-Test-across-Ghana
